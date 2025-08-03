@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+}
+.sidebar {
+  background: #f9f9f9;
+}
+.markdown-section h1, .markdown-section h2 {
+  color: #4CAF50;
+}
+.doc-search input {
+  border-radius: 5px;
+  border: 1px solid #4CAF50;
+}
